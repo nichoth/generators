@@ -1,0 +1,20 @@
+{
+  "name": "generators",
+  "version": "0.0.0",
+  "description": "Learn about generators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --harmony index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nichoth/generators.git"
+  },
+  "author": "Nick Thomas <nichoth@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nichoth/generators/issues"
+  },
+  "homepage": "https://github.com/nichoth/generators#readme"
+}
